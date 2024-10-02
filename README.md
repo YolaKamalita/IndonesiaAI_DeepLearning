@@ -7,13 +7,3 @@ http://archive.ics.uci.edu/ml/datasets/Forest+Fires
 
 Heart Disease:
 https://archive.ics.uci.edu/ml/datasets/Heart+Disease
-
-
-
-Repository Organization:
-
--- Dataset
-|
--- Notebook
-	|
-	-- Model
